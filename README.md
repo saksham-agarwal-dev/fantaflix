@@ -1,18 +1,5 @@
 - # General
-    - #### Team#: Fabflix Aqua
-    
-    - #### Names: Aung Khant, Andy Anh-Huy Tonthat
-    
-    - #### Project 5 Video Demo Link: https://youtu.be/dIYek3bjvo0
-
-    - #### Instruction of deployment:
-
-    - #### Collaborations and Work Distribution:
-
-    - JDBC Connection Pooling - Andy
-    - Master Slave Replication - Andy
-    - Scaling with Cluster and Load Balancer - Andy
-    - Measuring Performance - Aung
+    - #### Team#: FantaFlix
 
 
 - # Connection Pooling
